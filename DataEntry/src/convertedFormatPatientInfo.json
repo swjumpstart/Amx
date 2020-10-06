@@ -1,0 +1,24 @@
+{"patients":{"patient":[{"patientid":1234
+"sex":"m"
+"name":"John Smith"
+"state":"Michigan"
+"content":["       "
+"       "
+"       "
+"       "
+"       "
+"  "]
+"age":"03/04/1962"}
+{"patientid":5678
+"sex":"f"
+"name":"Jane Smith"
+"state":"Ohio"
+"content":["       "
+"       "
+"       "
+"       "
+"       "
+"  "]
+"age":"08/24/1971"}]
+"content":["  "
+"  "]}}
